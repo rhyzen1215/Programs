@@ -1,0 +1,174 @@
+* {
+	margin: 0px;
+	border: none;
+	padding: 0px;
+  }
+  
+body {
+	margin: 0px;
+	background-color:#FFFFFF;
+	width:auto;
+	}
+	
+.a_menu {
+	font-family: "Century Gothic";
+	font-size:12px;
+	font-weight:bolder;
+	text-decoration:none;
+	color:#0033FF;
+  }
+  
+ a:hover {
+	color:#FF3333;
+	}
+	
+
+#container {
+	margin-left: auto;
+	margin-right: auto;
+	width: auto;
+	height: auto;
+	}
+
+#header {
+	width:100%;
+	height: 100px;
+	}
+	
+#topheader {
+	width: auto;
+	height: 20px;
+	background-color:#EBF7FA;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-top: 5px;
+	}
+	
+#headeruser {
+	width: 300px;
+	height: 20px;
+	background-color:#EBF7FA;
+	padding-right: 10px;
+	padding-left: 10px;
+	float:left;
+	font-size:12px;
+	font-weight:bolder;
+	font-family:"Century Gothic";
+	}
+
+#headermenu {
+	width: 350px;
+	height: 20px;
+	background-color:#EBF7FA;
+	padding-right: 5px;
+	padding-left: 10px;
+	float:right;
+	font-size:12px;
+	font-weight:bolder;
+	font-family:"Century Gothic";
+	
+	}
+
+#midheader {
+	width: 100%;
+	height: 75px;
+	background-color:#FFFFFF;
+	background-image:url(images/Header_3.jpg);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	}
+	
+#midheaderTitle {
+	width: 50%;
+	height: 55px;
+	float:right;
+	padding-top: 20px;
+	}
+	
+#midheaderEnd {
+	width: 60px;
+	height: 75px;
+	float:right;
+	}
+	
+#headerText1 {
+	font-size:24px;
+	font-weight:bolder;
+	font-stretch:wider;
+	color:#660000;
+	font-stretch:ultra-expanded;
+	}
+#headerText2 {
+	font-size:16px;
+	font-weight:bold;
+	font-family: Arial;
+	font-stretch:ultra-expanded;
+	}
+	
+
+#header42 {
+	width: 80px;
+	height: 30px;
+	float:right;
+	}
+	
+#navigation {
+	width: 1024px;
+	height: 40px;
+	}
+
+	
+#sidebar {
+	width: 300px;
+	height:100%;;
+	float: left;
+	border: #000000;
+	border-right: double;
+	border-right-color:#000000;
+	}
+	
+
+#conbody {
+	width: 100%;
+	height:100%;
+	background-position:left;
+	margin: 0px;
+	}
+	
+#mainbody {
+	width: 100%;
+	height:100%;
+	background-position:left;
+	margin: 0px;
+	}
+	
+#inner_body {
+	width: 800px;
+	height:auto;
+	float: right;
+	}
+	
+#UpperBody {
+	width: 800px;
+	height:20px;
+	float: left;
+	}
+#MiddleBody {
+	width: 700px;
+	height:500px;
+	float: left;
+	}
+#Lowerody {
+	width: 800px;
+	height:100px;
+	float: left;
+	}
+#updateDiv {
+	border:#000000 solid 1px;
+	width: 100px;
+	height: 200px;
+	border-left:thick;
+	background-color:#00FFFF;
+
+/* CSS Document */
+
