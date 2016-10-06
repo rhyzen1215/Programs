@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+
+<%
+  btnID = "?"
+
+  if Request.Form("bsubmit") = "Submit 1" then
+    btnID = "1"
+  elseif Request.Form("bsubmit") = "Submit 2" then
+    btnID = "2"
+  elseif Request.Form("bsubmit") = "Submit 3" then
+    btnID = "3"
+  end if
+%>
+Submit button ID: <%=btnID%><BR>
+
+<FORM action="mulsub.asp" method="post">
+First name: <INPUT type="TEXT" name="FNAME"><BR>
+<INPUT type="submit" name="bsubmit" value="Submit 1">
+<INPUT type="submit" name="bsubmit" value="Submit 2">
+<INPUT type="submit" name="bsubmit" value="Submit 3">
+</FORM>
+
+
+</body>
+</html>

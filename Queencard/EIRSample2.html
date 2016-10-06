@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+</head>
+
+
+<body>
+
+<h1>JavaScript Can Validate Input</h1>
+
+<p>Please input a number between 1 and 10:</p>
+
+<input id="numb" type="text">
+
+<button type="button" onclick="myFunction()">Submit</button>
+
+<p id="demo"></p>
+<p id="demo1"></p>
+<p id="demo2"></p>
+
+<script>
+	function myFunction() {
+    var x, text;
+    x = document.getElementById("numb").value;
+    document.getElementById("demo").innerHTML = x;
+	
+	
+	var IRRval = [];
+	IRRval.push(-116400);
+	IRRval.push(1800);
+	IRRval.push(1800);
+	IRRval.push(1800);
+	IRRval.push(1800);
+	IRRval.push(1800);
+	IRRval.push(1800);
+	IRRval.push(1800);
+	IRRval.push(1800);
+	IRRval.push(1800);
+	IRRval.push(1800);
+	IRRval.push(1800);
+	IRRval.push(121800);
+	
+	
+	
+	var IRR = IRRCalc(IRRval);
+	var IRR21 = Math.pow((1+IRR),12);
+	IRR21 = IRR21 - 1;
+	document.getElementById("demo1").innerHTML = IRR;
+	document.getElementById("demo2").innerHTML = IRR21;
+	}
+
+	function IRRCalc(CArray) {
+  	min = 0.0;
+  	max = 1.0;
+  	do {
+    	guest = (min + max) / 2;
+    	NPV = 0;
+    	for (var j=0; j<CArray.length; j++) {
+          NPV += CArray[j]/Math.pow((1+guest),j);
+    	}
+    	if (NPV > 0) {
+      	min = guest;
+    	}
+    	else {
+      	max = guest;
+    	}
+  	} while(Math.abs(NPV) > 0.000001);
+  	return guest;
+	}
+
+</script>
+
+
+</body>
+</html>

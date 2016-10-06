@@ -1,0 +1,120 @@
+@charset "utf-8";
+/* CSS Document */
+
+.error
+{
+	color:#FF0000;
+	font-size:11px;
+	margin-left:5px;
+}
+	
+input[type=text]
+{	
+	width: 355px;
+	margin-left:5px;
+	font-family:"Century Gothic";
+	font-size:14px;
+}
+
+#tbxLeave
+{	
+	width: 220px;
+	margin-left:5px;
+	font-family:"Century Gothic";
+	font-size:14px;
+	margin-right:25px;
+}
+
+
+#tbxEmpNo
+{	
+	width: 157px;
+	margin-left:5px;
+	font-family:"Century Gothic";
+	font-size:14px;
+	margin-right:5x;
+}
+
+input[type=date]
+{	
+	width: 355px;
+	margin-left:5px;
+	font-family:"Century Gothic";
+	font-size:14px;
+}
+	
+input[type=submit]
+{	
+	margin-left:10px;
+}
+
+select
+{	
+	margin-left:5px;
+}
+
+#comDropdown
+{	
+	font-family:"Century Gothic";
+	font-size:14px;
+	width: 360px;
+	margin-left:5px;
+}
+
+#comLabel
+{
+	width: 180px;
+	font-family:"Century Gothic";
+	font-size:14px;
+	text-align:right
+}
+
+#comLabel2
+{
+	width: 550px;
+	font-family:"Century Gothic";
+	font-size:14px;
+	text-align:left
+}
+
+#cbxLeave
+{
+	width: 100px;
+	font-family:"Century Gothic";
+	font-size:14px;
+	text-align:left
+}
+
+#search
+{
+	width: 366px;
+	margin:0px;
+}
+
+#btn
+{
+	width: 70px;
+	margin:0px;
+}
+
+#tblNoBorder
+{
+	border: none;	
+	width: 180px;
+	text-align:right;
+	font-family:"Century Gothic";
+	font-size:14px;
+}
+
+#tblWithBorder
+{
+	border:solid 1px black;
+	font-family:"Century Gothic";
+	font-size:14px;
+}
+
+#tbl
+{
+	margin-top:15px;
+	margin-bottom:10px;
+}

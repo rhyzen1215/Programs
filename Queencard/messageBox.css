@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+#mastheader
+ 
+            {
+ 
+                background-color:#4477BB;
+                margin-top : -10px;
+                color:#fff;
+                height:20px;
+                width:255px;
+            }
+ 
+  #popupbox{
+  margin: 0;
+  margin-left: 40%;
+  margin-right: 40%;
+  margin-top: 50px;
+  padding-top: 10px;
+  width: 20%;
+  height: 150px;
+  position: absolute;
+  background: #FBFBF0;
+  border: solid #000000 2px;
+  z-index: 9;
+  font-family: arial;
+  visibility: hidden;
+  }
+
+
