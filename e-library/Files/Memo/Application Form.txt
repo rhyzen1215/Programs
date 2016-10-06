@@ -1,0 +1,236 @@
+<div style="text-align: center;"><strong><span style="font-family: 'times new roman', times; font-size: 12pt;">QUEEN CITY DEVELOPEMNT BANK</span></strong></div>
+<div style="text-align: center;"><span style="font-family: 'times new roman', times; font-size: 12pt;">Sky City Tower, Mapa Street, Iloilo City</span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp;</span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp;</span></div>
+<div style="text-align: center;"><strong><span style="font-family: 'times new roman', times; font-size: 12pt;">APPLCIATION FOR A SALARY&nbsp; BASED GENERAL PURPOSE COMSUMPTION LOAN</span></strong></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp;</span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp; &nbsp; &nbsp; I hereby apply for a Salary-Based General Purpose Consumption Loan in the amount of PESOS ________________________________( PHP _____________), Philippine Currency, payable in _____________ equal semi&mdash;monthly/monthly/quarterly payments at the rate of ______% per annum, for ________months subject to the conditions contained in the Promissory Note and other supporting documents, as follows:</span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp;<br /><br /></span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>APPLICANT/CO-BORROWER&nbsp; INFORMATION</strong></span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Loan Applicant &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Co-Borrower</em></span><span style="font-family: 'times new roman', times; font-size: 12pt;"><br /></span>
+<table style="height: 198px;" width="738">
+<tbody>
+<tr>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">Name of Spouse</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">Address&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">Date of Birth</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">Place of Birth&nbsp;&nbsp;&nbsp;&nbsp; </span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">Number of Children/Ages</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">Telephone/Cellphone No.</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">Do you own a residence?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+</tr>
+</tbody>
+</table>
+<span style="font-family: 'times new roman', times; font-size: 12pt;"><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>SOURCE OF INCOME (APPLICANT/BORROWER)</strong></span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;"><em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Loan Applicant &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Co-Borrower</em></span><br />
+<table style="height: 318px;" width="737">
+<tbody>
+<tr>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">Monthly Rental &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">Educational Attainment</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">Year Graduated&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">Are you a depositor of Queenbank?</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">If yes, account number&nbsp;</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">Latest Deposit Balance</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">Name of Employer</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">Business Address</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">Length of Service</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">Status</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">Annual Salary</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+<td><span style="font-family: 'times new roman', times; font-size: 12pt;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp;</span></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">Gross Monthly Income&nbsp; </span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">_____________________</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">Annual Income (ITR Based)</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">_____________________</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">Less: Monthly Living Expenses</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">_____________________</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Transportation</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">_____________________</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;House Rental/Amortization</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">_____________________</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Education</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">_____________________</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Medical Expenses</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">_____________________</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Recreation Expenses</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">_____________________</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Other Expenses</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">_____________________</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">Income after Deducting Monthly Living Expenses </span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">_____________________</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">Add: Other and Spouse&rsquo;s Income</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">_____________________</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">Less: Other Existing Debt Repayment</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">_____________________</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">Total Monthly Expenses</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">_____________________</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">_____________________</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">Total Monthly Family Disposable Income (TMFDI)</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">_____________________</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">_____________________</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp;<br /><br /></span></div>
+<div style="text-align: justify;">
+<ol>
+<li><strong><span style="font-family: 'times new roman', times; font-size: 12pt;"> OUTSTANDING OBLIGATIONS (APPLICANT/CO-BORROWER)</span></strong></li>
+</ol>
+</div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp;</span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp;</span></div>
+<div style="text-align: justify;"><strong><span style="font-family: 'times new roman', times; font-size: 12pt;">Loan Applicant</span></strong></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp;<br /></span><span style="font-family: 'times new roman', times; font-size: 12pt;"><span style="font-size: 10pt;">CREDITOR/BANK&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ORIGINAL AMOUNT &nbsp; &nbsp; &nbsp; &nbsp; O/S BALANCE &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; DATE GRANTED &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;MATURITY</span></span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________</span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________</span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________</span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________</span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________</span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp;</span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp;</span></div>
+<div style="text-align: justify;"><strong><span style="font-family: 'times new roman', times; font-size: 12pt;">Co-Borrower</span></strong></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp;</span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;"><span style="font-size: 10pt;">CREDITOR/BANK&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ORIGINAL AMOUNT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; O/S BALANCE &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;DATE GRANTED &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MATURITY</span></span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________</span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________</span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________</span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________</span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________&nbsp;&nbsp; &nbsp;________________</span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp;</span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp;</span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">I/We hereby submit the following information which I/we certify to be true and correct.</span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp;</span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp;</span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp;</span></div>
+<div style="text-align: left;"><span style="font-family: 'times new roman', times; font-size: 12pt;"><strong>SIGNED IN THE PRESENCE OF&nbsp;&nbsp;&nbsp;&nbsp;</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>&nbsp;&nbsp;RESPECTFULLY SUBMITED</strong></span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">____________________________&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">____________________________ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _____________________________</span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Applicant/Co-Borrower&rsquo;s Signature</span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp;</span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp;</span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp;</span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp;</span></div>
+<div style="text-align: justify;"><span style="font-family: 'times new roman', times; font-size: 12pt;">&nbsp;</span></div>

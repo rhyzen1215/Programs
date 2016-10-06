@@ -1,0 +1,639 @@
+<table border="0" width="747" cellspacing="0" cellpadding="0"><colgroup><col span="8" width="64" /><col width="107" /><col span="2" width="64" /></colgroup>
+<tbody>
+<tr>
+<td class="xl66" colspan="2" width="128" height="20"><a name="Print_Area"></a>Credit Score for:</td>
+<td class="xl66" width="64">&nbsp;</td>
+<td class="xl67" colspan="5" width="320">Salary Based General Purpose Consumption Loan</td>
+<td class="xl66" width="107">&nbsp;</td>
+<td class="xl66" width="64">&nbsp;</td>
+<td class="xl66" width="64">&nbsp;</td>
+</tr>
+<tr>
+<td class="xl66" height="20">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+</tr>
+<tr>
+<td class="xl66" colspan="2" height="20">Name of Applicant:</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" colspan="2">Originating Branch:</td>
+<td class="xl66">&nbsp;</td>
+</tr>
+<tr>
+<td class="xl66" colspan="2" height="20">Address&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" colspan="2">Contact Number&nbsp;&nbsp;&nbsp; :</td>
+<td class="xl66">&nbsp;</td>
+</tr>
+<tr>
+<td class="xl66" height="20">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+</tr>
+<tr>
+<td class="xl67" height="20">&nbsp;</td>
+<td class="xl67" colspan="8">Credit Score&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [&nbsp;&nbsp;&nbsp;&nbsp; ]&nbsp;&nbsp;&nbsp; Pass&nbsp;&nbsp;&nbsp; 75 points up&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [&nbsp;&nbsp;&nbsp;&nbsp; ]&nbsp;&nbsp;&nbsp;&nbsp; Fail&nbsp;&nbsp;&nbsp;&nbsp; 74 points and below</td>
+<td class="xl67">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+</tr>
+<tr>
+<td class="xl66" height="20">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+</tr>
+<tr>
+<td class="xl67" colspan="3" height="20">Ownership/Management&nbsp;&nbsp;&nbsp;</td>
+<td class="xl67">&nbsp;</td>
+<td class="xl67">&nbsp;</td>
+<td class="xl67">35 points</td>
+<td class="xl67">&nbsp;</td>
+<td class="xl67">&nbsp;</td>
+<td class="xl67">&nbsp;</td>
+<td class="xl67" colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Credit Rating</td>
+</tr>
+<tr>
+<td class="xl67" colspan="3" height="20">Existing Relationship with QCDB</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+</tr>
+<tr>
+<td class="xl66" colspan="6" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Applicant personally known to the bank for more than 5 years</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">7</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl66" colspan="6" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Applicant personally known to the bank but for less than 5 years</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">4</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl66" colspan="4" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Not known to the officers of the bank</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">1</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl67" colspan="5" height="20">Residency and relationship with the community</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+</tr>
+<tr>
+<td class="xl66" colspan="5" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Living in present address for more than 10 years</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">7</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl66" colspan="5" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Living in present address for more than 5 years</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">4</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl66" colspan="5" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Living in present address for less than 5 years</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">1</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl67" colspan="2" height="20">Health Condition</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+</tr>
+<tr>
+<td class="xl66" colspan="6" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Excellent health with no hospital record for the past 24 months</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">7</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl66" colspan="5" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Good health with medical maintenance record&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">4</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl66" colspan="3" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Health issues unresolved</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">1</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl67" colspan="4" height="20">Credit Card/Telco subscriber and limits</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+</tr>
+<tr>
+<td class="xl66" colspan="6" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Holder for 5 years with credit limit of P100,000.00 and above</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">7</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl66" colspan="6" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Holder for 5 years with credit limit of P100,000.00 and below</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">4</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl66" colspan="3" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Holder for 3 years and below</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">1</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl67" colspan="3" height="20">Experience and Track Record</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+</tr>
+<tr>
+<td class="xl66" colspan="6" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Established track record with excellent handling of account</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">7</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl66" colspan="5" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Good repayment habits but exhibit payment failures</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">4</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl66" colspan="5" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Poor payment history with adverse experience</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">1</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl67" height="20">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl67">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl67">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+</tr>
+<tr>
+<td class="xl67" colspan="5" height="20">Employment, Education, Repayment Indicators</td>
+<td class="xl67">35 points</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl67">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="font7">Credit Rating</span></td>
+</tr>
+<tr>
+<td class="xl67" colspan="3" height="20">Experience and Track Record</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+</tr>
+<tr>
+<td class="xl66" colspan="6" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Have been a salary loan borrower for more than 5 years</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">7</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl66" colspan="6" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Have been a salary loan borrower for less than 5 years</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">4</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl66" colspan="6" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Have been a salary loan borrower for less than 3 years</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">1</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl67" colspan="2" height="20">Employment Record</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+</tr>
+<tr>
+<td class="xl66" colspan="8" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Permanently employed with total monthly family income (TMFI) of P30,000.00 and above</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">7</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl66" colspan="9" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Permanently employed with total monthly family income (TMFI) of P15,000.01 to P29,999.99 and below</td>
+<td class="xl66" align="right">4</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl66" colspan="8" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Permanently employed with total monthly family income (TMFI) of P15,000.00 and below</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">1</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl67" colspan="3" height="20">Educational Attainment</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+</tr>
+<tr>
+<td class="xl66" colspan="5" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Graduated college with post-graduate studies</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">7</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl66" colspan="2" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Graduated college&nbsp;&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">4</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl66" colspan="2" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Studied college</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">1</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl67" colspan="4" height="20">Stability of Employment and Tenure</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+</tr>
+<tr>
+<td class="xl66" colspan="7" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Have been employed with permanent status for more than 10 years&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">7</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl66" colspan="8" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Have been employed with permanent status for more than 3 years but less than 10 years</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">4</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl66" colspan="6" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Have been employed with permanent status for 3 years and below</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">1</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl67" colspan="4" height="20">Borrowings, aside from this loan application</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+</tr>
+<tr>
+<td class="xl66" colspan="4" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Salary loan solely with this bank</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">7</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl66" colspan="8" height="20">&nbsp;&nbsp;&nbsp;&nbsp; With salary loans from SSS, GSIS, Pag-Ibig, other Financial/Lending Institutions</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">4</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl66" colspan="8" height="20">&nbsp;&nbsp;&nbsp;&nbsp; With salary /housing loans from SSS, GSIS, Pag-ibig, other Financial/Lending Institutions</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">1</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl66" height="20">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+</tr>
+<tr>
+<td class="xl67" colspan="2" height="20">Repayment Capacity</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl67">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl67">30 points</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl67">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="font7">Credit Score</span></td>
+</tr>
+<tr>
+<td class="xl67" colspan="3" height="20">Number of dependents&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+</tr>
+<tr>
+<td class="xl66" colspan="4" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Single/Married with no dependent</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">10</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl66" colspan="4" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Married with one to two dependents</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">6</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl66" colspan="4" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Married with more than 3 dependents</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">3</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl67" colspan="8" height="20">Loan to Net Income/TMFI (based on Total Credits to CASA and ITR, if Salary Based)</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+</tr>
+<tr>
+<td class="xl66" colspan="8" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Total monthly amortization is less than 30% of net income after tax for previous year</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">10</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl66" colspan="9" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Total monthly amortization is less than 50% but more than 30% of net income after tax for previous year</td>
+<td class="xl66" align="right">6</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl66" colspan="7" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Amortization exceeds 50% of net income after tax for previous year</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">3</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl67" colspan="4" height="20">Financial Leverage (Total Liabilities/Equity)</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+</tr>
+<tr>
+<td class="xl66" colspan="4" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Financial leverage is below 0.30x</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">10</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl66" colspan="5" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Financial leverage is above 0.30x but below 0.50x</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">6</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl66" colspan="5" height="20">&nbsp;&nbsp;&nbsp;&nbsp; Financial leverage is above 0.50x but below 1.00x</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" align="right">3</td>
+<td class="xl66">[&nbsp;&nbsp; ]</td>
+</tr>
+<tr>
+<td class="xl66" height="20">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+</tr>
+<tr>
+<td class="xl66" colspan="4" height="20">&nbsp;Observations and Action on the Request:</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl67">Total Score</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+</tr>
+<tr>
+<td class="xl66" height="20">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+</tr>
+<tr>
+<td class="xl66" colspan="2" height="20">Score Conducted by:</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66">&nbsp;</td>
+<td class="xl66" colspan="3">Reviewed by:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+</tr>
+</tbody>
+</table>

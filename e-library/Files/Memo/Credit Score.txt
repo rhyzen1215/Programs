@@ -1,0 +1,255 @@
+<div><span style="font-size: 12pt; font-family: 'times new roman', times;"><strong>Credit Score for:&nbsp;Salary Based General Purpose Consumption Loan</strong></span><br /><br /><br /></div>
+<div><span style="font-size: 12pt; font-family: 'times new roman', times;">Name of Applicant: ___________________________________&nbsp;Originating Branch: &nbsp;____________________</span></div>
+<div><span style="font-size: 12pt; font-family: 'times new roman', times;">Address: ____________________________________________&nbsp;Contact Number : ______________________<br /><br /><br /></span></div>
+<div><span style="font-size: 12pt; font-family: 'times new roman', times;"><strong>Credit Score &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [ &nbsp; &nbsp;] &nbsp;Pass &nbsp;75 points up &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [ &nbsp; &nbsp;] &nbsp;Fail &nbsp;74 points and below<br /><br /></strong></span></div>
+<div><br />
+<table style="height: 25px;" width="758">
+<tbody>
+<tr style="border-color: black;">
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;"><strong>Ownership/Management &nbsp; &nbsp;</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;"><strong>35 points &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong></span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;"><strong>Credit Rating</strong></span></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 104px;" width="759">
+<tbody>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;"><strong>Existing Relationship with QCDB</strong></span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Applicant personally known to the bank for more than 5 years &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">7 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Applicant personally known to the bank but for less than 5 years</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">4 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Not known to the officers of the bank</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">1 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;"><strong>Residency and relationship with the community</strong></span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Living in present address for more than 10 years</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">7 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Living in present address for more than 5 years</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">4 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Living in present address for less than 5 years</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">1 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;"><strong>Health Condition</strong></span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Excellent health with no hospital record for the past 24 months</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">7 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Good health with medical maintenance record&nbsp;</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">4 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Health issues unresolved</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">1 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;"><strong>Credit Card/Telco subscriber and limits</strong></span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Holder for 5 years with credit limit of P100,000.00 and above</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">7 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Holder for 5 years with credit limit of P100,000.00 and below</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">4 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Holder for 3 years and below</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">1 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;"><strong>Experience and Track Record</strong></span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Established track record with excellent handling of account</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">7 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Good repayment habits but exhibit payment failures</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">4 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Poor payment history with adverse experience</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">1 [ ]</span></td>
+</tr>
+</tbody>
+</table>
+<br /><br />
+<table style="height: 24px;" width="757">
+<tbody>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;"><strong>Employment, Education, Repayment Indicators &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;"><strong>35 points &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong></span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;"><strong>Credit Rating</strong></span></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 24px;" width="757">
+<tbody>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;"><strong>Experience and Track Record &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Have been a salary loan borrower for more than 5 years</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">7 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Have been a salary loan borrower for less than 5 years</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">4 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;"><strong>&nbsp; &nbsp; </strong>&nbsp;Have been a salary loan borrower for less than 3 years</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">1 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;"><strong>Employment Record</strong></span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;"><strong>&nbsp; &nbsp; </strong>&nbsp;Permanently employed with total monthly family income (TMFI) of P30,000.00 and above</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">7 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Permanently employed with total monthly family income (TMFI) of P15,000.01 to P29,999.99 and below</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">4 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Permanently employed with total monthly family income (TMFI) of P15,000.00 and below</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">1 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;"><strong>Educational Attainment</strong></span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Graduated college with post-graduate studies</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">7 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Graduated college &nbsp;</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">4 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Studied college</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">1 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;"><strong>&nbsp;Stability of Employment and Tenure</strong></span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Have been employed with permanent status for more than 10 years&nbsp;</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">7 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Have been employed with permanent status for more than 3 years but less than 10 years</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">4 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Have been employed with permanent status for 3 years and below</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">1 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;"><strong>Borrowings, aside from this loan application</strong></span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Salary loan solely with this bank</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">7 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;With salary loans from SSS, GSIS, Pag-Ibig, other Financial/Lending Institutions</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">4 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;With salary /housing loans from SSS, GSIS, Pag-ibig, other Financial/Lending Institutions</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">1 [ ]</span></td>
+</tr>
+</tbody>
+</table>
+<br /><br />
+<table style="height: 23px;" width="757">
+<tbody>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;"><strong>Repayment Capacity &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong></span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;"><strong>30 points &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;"><strong>Credit Score</strong></span></td>
+</tr>
+</tbody>
+</table>
+<table style="height: 291px;" width="759">
+<tbody>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;"><strong>Number of dependents&nbsp;</strong></span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Single/Married with no dependent</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">10 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Married with one to two dependents</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; 6 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Married with more than 3 dependents</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; 3 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;"><strong>Loan to Net Income/TMFI (based on Total Credits to CASA and ITR, if Salary Based) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Total monthly amortization is less than 30% of net income after tax for previous &nbsp;year</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">10 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Total monthly amortization is less than 50% but more than 30% of net income after tax for previous year</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; 6 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Amortization exceeds 50% of net income after tax for previous year</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; 3 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;"><strong>Financial Leverage (Total Liabilities/Equity)</strong></span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp;</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Financial leverage is below 0.30x &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">10 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Financial leverage is above 0.30x but below 0.50x</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; 6 [ ]</span></td>
+</tr>
+<tr>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; &nbsp; &nbsp;Financial leverage is above 0.50x but below 1.00x</span></td>
+<td><span style="font-size: 12pt; font-family: 'times new roman', times;">&nbsp; 3 [ ]</span></td>
+</tr>
+</tbody>
+</table>
+<br /><br /><span style="font-size: 12pt; font-family: 'times new roman', times;">Observations and Action on the Request: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>Total Score:<br /><br /><br /></strong>Score Conducted by: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</strong>Reviewed by: &nbsp; &nbsp;<strong> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</strong></span><br /><br /><br /><br /></div>
