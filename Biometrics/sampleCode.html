@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+</head>
+
+<script type="text/javascript">
+	
+	document.onkeydown = function(e) {
+        if (e.ctrlKey && (e.keyCode === 67 || e.keyCode === 86 || e.keyCode === 85 || e.keyCode === 117 || e.keyCode === 42)) {//Alt+c, Alt+v will also be disabled sadly.
+            alert('not allowed');
+        }
+        return false;
+		};
+	
+
+	document.oncontextmenu = function() { /*alert(msg);*/ return false; }
+	document.ondragstart   = function() { /*alert(msg);*/ return false; }
+	document.onmousedown   = mouseDown;
+	
+	
+</script>
+
+<body oncontextmenu="return false">
+
+<input name="sampletext" type="text" value="<type here>"/>
+<input name="samplebutton" type="button" value="Click Me"/>
+
+<a href="http://www.facebook.com">facebook</a>
+<hr width="200" size="3" align="left"/>	
+<div 
+ style="-moz-user-select: none; -webkit-user-select: none; -ms-user-select:none; user-select:none;-o-user-select:none;" 
+ unselectable="on"
+ onselectstart="return false;" 
+ onmousedown="return false;">
+   
+   
+   <p>SALARY BASED GENERAL PURPOSE CONSUMPTION 
+LOAN POLICY GUIDELINES
+</p><p align="justify">
+Security Note:  The information contained within this document is CONFIDENTIAL and unauthorized disclosure is prohibited. Failure to observe the Bank’s rules and regulations regarding proprietary information can result to appropriate disciplinary action and can subject concerned personnel and/or third parties to legal liability. 
+</p>
+
+
+This guideline formalizes Queen City Development Bank’s policy and procedures in regard to the granting of “salary-based general-purpose consumption loans” to its existing/prospective clients. The processes outlined are minimum requirements granted under sound credit standards and fair consumer practices. Deviations are to be referred and approved in accordance with the provisions herein stated.
+
+
+
+The granting of salary-based general-purpose consumption loan is not to be considered as a regular/service open or available to the general public. This refers to unsecured loans for a broad range of consumption purposes, granted to individuals mainly on the basis of regular salary, pension or other fixed compensation, where repayment would come from such future cash flows, either through salary deductions, debits from the borrower’s deposit account, mobile payments, pay-through collections, over-the-counter payments or other type of payment arrangement agreed upon by the borrower and lender. Bank officers are urged to exercise due discretion and to follow the provisions of this Manual.
+
+</div>
+
+<textarea
+
+
+</textarea>
+
+</body>
+
+</html>

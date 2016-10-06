@@ -1,0 +1,97 @@
+/* Just some base styles not needed for example to function */
+*, html { font-family:"Century Gothic";
+		font-size:12px; }
+
+ul, li, p, h1, h2, h3, h4, h5
+{
+	margin: 0;
+	padding: 0;
+}
+img { border: none; }
+	
+/* CSS Tree menu styles */
+ol.tree
+{
+	padding: 0 0 0 0px;
+	width: 230px;
+}
+	li 
+	{ 
+		position: relative; 
+		margin-left: 10px;
+		list-style: none;
+	}
+	li.file
+	{
+		margin-left: 60px !important;
+	}
+	
+	li.file2
+	{
+		margin-left: 70px !important;
+	}
+		li.file a
+		{
+			background: url(css-tree/toggle-small.png) 0 0px no-repeat;
+			color: #0000FF;
+			padding-left: 20px;
+			text-decoration: none;
+			display: block;
+			font:"Century Gothic";
+			
+
+		}
+		
+		li.file2 a
+		{
+			background: url(css-tree/toggle-expand.png) 0 0px no-repeat;
+			color: #0000FF;
+			padding-left: 20px;
+			text-decoration: none;
+			display: block;
+			font:"Century Gothic";
+			
+
+		}
+		/*li.file a[href *= '.pdf']	{ background: url(toggle-small.png) 0 3px no-repeat; }
+		li.file a[href *= '.html']	{ background: url(toggle-small.png) 0 3px no-repeat; }
+		li.file a[href $= '.css']	{ background: url(toggle-small.png) 0 3px no-repeat; }
+		li.file a[href $= '.js']	{ background: url(toggle-small.png) 0 3px no-repeat; }*/
+	li input
+	{
+		position: absolute;
+		left: 10;
+		margin-left: 10;
+		opacity: 0;
+		z-index: 2;
+		cursor: pointer;
+		height: 1em;
+		width: 1em;
+		top: 0;
+	}
+		li input + ol
+		{
+			background: url(css-tree/toggle-expand.png) 40px 0 no-repeat;
+			margin: -1.25em 0 0 -40px; /* 20px */
+			height: 1.5em;
+		}
+		li input + ol > li { display: none; margin-left: 60px !important; padding-left: 2px; }
+	li label
+	{
+		background: url(folder-horizontal.png) 20px 1px no-repeat;
+		cursor: pointer;
+		display: block;
+		padding-left: 20px;
+		font-size:14px;
+		
+	}
+
+	li input:checked + ol
+	{
+		background: url(toggle-small.png) 40px 0 no-repeat;
+		margin: -1.25em 0 0 -40px; /* 20px */
+		padding: 1.563em 0 0 10px;
+		height: auto;
+	}
+		li input:checked + ol > li { display: block; margin: 0 0 0.125em;  /* 2px */}
+		li input:checked + ol > li:last-child { margin: 0 0 0.063em; /* 1px */ }

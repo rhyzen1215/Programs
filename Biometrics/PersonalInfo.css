@@ -1,0 +1,100 @@
+* {
+	margin: 0px;
+	border: none;
+	padding: 0px;
+  }
+  
+#container1 {
+	width: auto;
+	height: auto;
+	}
+	
+#leftbody {
+	width: 230px;
+	height:560px;
+	background-position: top;
+	background-repeat: no-repeat;
+	float: left;
+
+	}
+	
+#TopInfo {
+	border: none;
+	width: auto;
+	height:50px;
+	
+	}
+	
+#rightbody {
+	width: auto;
+	height:560px;
+	float: left;
+	}
+	
+
+#PersonalID {
+	width: 210px;
+	height: 246px;
+	background-color: #f7f6f6;
+	margin: 10px;
+	color:#0000CC;
+	border: ridge 1px #999999;
+	}
+
+#pictureID {
+	
+	width: 210px;
+	height: 210px;
+	background-color: #f7f6f6;
+	background-image: url(images/defaultphoto.png);
+	background-repeat:no-repeat;
+	}
+
+#NameID {
+	
+	width: 210px;
+	height: 30px;
+	background-color: #B3EAF0;
+	padding-top: 5px;
+	color:#0000CC;
+	margin: 0px;
+	border-bottom: ridge 1px #CCCCCC;
+	}
+
+#navID {
+	
+	width: 210px;
+	height: 260px;
+	background-color: #B3EAF0;
+	margin: 10px;
+	border: ridge 1px #CCCCCC;
+	}
+	
+#ID1 {
+	width: 190px;
+	height: 30px;
+	background-color: #B3EAF0;
+	margin: 10px;
+	border-bottom: ridge 1px #CCCCCC;
+	}	
+	
+#ID1:hover {
+	width: 190px;
+	height: 30px;
+	background-color: #66C5E3;
+	margin: 10px;
+	border-bottom: ridge 1px #CCCCCC;
+	}
+
+
+
+	
+#infoData {
+	width: 515px;
+	height:517px;
+	margin: 10px;
+	background-color: #f7f6f6;
+	}
+	
+/* CSS Document */
+

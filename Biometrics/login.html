@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+</head>
+<style type="text/css">
+
+input [type=text] {
+	font-family: "Century Gothic";
+	font-size: 12px;
+	}
+	
+.fontID1 {
+	font-family: "Century Gothic";
+	font-size: 14px;
+	font-weight: bold;
+	}
+	
+.fontID2 {
+	font-family: "Century Gothic";
+	font-size: 18px;
+	font-weight: bold;
+	}
+	
+</style>
+
+
+ <script type="text/JavaScript">
+    	function varCrypt(){
+      	var cryptFile = document.getElementById('pswrd');
+      	cryptFile = window.btoa(cryptFile);
+		document.getElementById('pswrd').value = cryptFile;
+    </script>
+<body>
+
+	<table width="720" cellpadding="0" cellspacing="0">
+        <tr>
+            <td align="center"><hr width=270px size="3" color="#666666" align="left"/>
+							   <hr width=270px size="1" color="#666666" align="left"/></td>
+        </tr>
+	</table>
+
+	<table>
+	<tr>
+	<td height="100">
+	<td width="1024"><div align="left">
+	<form name="formSubmit" action="login.php" autocomplete="off">
+	<table width="247">
+		<tr>
+			<td width="95"><div align="right" class="fontID1">Username:</div></td>
+		  <td width="140"><input type="text" name="username" size="20" value="" /></td>
+		</tr>
+		
+		<tr>
+			<td><div align="right" class="fontID1">Password:</div></td>
+			<td><input type="password" name="password" id="pswrd" size="20" value=""  /></td>
+		</tr>
+		
+		<tr>
+			<td><div align="left" class="fontID1"></div></td>
+			<td><div align="right"><input type="Submit" name="login" size="20" value="Log In"/></div></td>
+		</tr>
+	</table>
+	</form>
+	</div></td>
+	</tr>
+	</table>
+	
+	
+	<table width="720" cellpadding="0" cellspacing="0">
+        <tr>
+            <td align="center"><hr width=270px size="1" color="#666666" align="left"/>
+							   <hr width=270px size="3" color="#666666" align="left"/></td>
+        </tr>
+	</table>
+	
+</body>
+</html>

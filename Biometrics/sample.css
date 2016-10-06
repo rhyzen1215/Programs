@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Derived from http://www.devinrolsen.com/pure-css-horizontal-menu/ */
+
+#pagebody { position: inherit !important; width: 100%; } /* DO NOT EDIT */
+#pagebody-inner { position: inherit !important; width: 100%; } /* DO NOT EDIT */
+
+#alpha, #beta, #gamma, #delta {
+    display: inline; /* DO NOT EDIT */
+    position: inherit !important; /* DO NOT EDIT */
+    float: left; /* DO NOT EDIT */
+    min-height: 1px; /* DO NOT EDIT */
+}
+
+#centernav {
+  width: 100%; /* if you want your nav centered, set this to the width of your container, if you don't want it centered, change this number to 100% */
+  font-family: "Century Gothic";
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#dropnav 
+	{height:40px; background:#006699;
+  		font-size: 14px;
+		font-weight:bolder;
+	} /* Changes the height and bg color of the main menu */
+
+#dropnav ul
+{margin: 0px; padding:0px;}
+
+#dropnav ul li
+{display:list-item; float:left; list-style:none; margin-left:15px; position:relative; height:20px; padding-top:10px;} /* only edit the last 2 items - sets the width of the main menu */
+
+#dropnav li a
+{color:#BCF0F3; text-decoration:none;} /* Changes the link color of items on the main menu */
+
+#dropnav li a:hover
+{color:#0066FF; text-decoration:none;}/* Changes the hover color of items on the main menu */
+
+#dropnav li ul
+{margin:0px; padding:0px; display:none; position:absolute; left:0x; z-index: 99; top:25px;
+	  font-size: 12px;
+	} /* Only edit the last 2 items - set the top margin and background color of the submenus */
+
+#dropnav li:hover ul
+{display: block; width:170px; background-color:#006699; opacity: 1;} /* sets the width of the submenus */
+
+#dropnav li li
+{list-style:none; display:list-item;} /* DO NOT EDIT */
+
+#dropnav li li a
+{color:#FFFFCC; text-decoration:none;} /* Changes the link color of items in the submenu */
+
+#dropnav li li a:hover
+{color:#00FFFF; text-decoration:none;} /* Changes the hover color of items in the submenu */
+
+li#main  {padding-top: 10px; width:150px;} /* Sets the padding of items in the main menu */
+
+.mainleft  {padding-left: 150px;} /* Sets the padding of items in the main menu */
+
+#mainMiddle  {width:10px;} /* Sets the padding of items in the main menu */

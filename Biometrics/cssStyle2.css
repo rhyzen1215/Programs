@@ -1,0 +1,149 @@
+* {
+	margin: 0px;
+	border: none;
+	padding: 0px;
+  }
+  
+body {
+	margin: 0px;
+	width:auto;
+	height: auto;
+	}
+	
+#container {
+	margin-left: auto;
+	margin-right: auto;
+	height: auto;
+	}
+	
+#headercontainer {
+	margin-left: auto;
+	margin-right: auto;
+	width: auto;
+	height: 90px;
+	}
+	
+#header {
+	width: auto;
+	height: 60px;
+	background-image:url(images/header.png);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	}
+	
+#topmenu {
+	width: auto;
+	height: 30px;
+	background-color:#0066FF;
+	padding-right:10px;
+	
+	}
+	
+#usermenu {
+	width: auto;
+	height: 25px;
+	float:right;
+	font-size:12px;
+	font-weight:bold;
+	padding-top: 5px;
+	padding-right: 10px;
+	color:#000099;
+	}
+	
+#menu1 {
+	width: auto;
+	height: 25px;
+	float:right;
+	padding-top:5px;
+	font-size:12px;
+	font-weight:bold;
+	}
+	
+	
+#header4 {
+	text-decoration: none;
+	width: 50px;
+	height: 30px;
+	float:right;
+	}
+	
+#navigation {
+	width: 1024px;
+	height: 40px;
+	}
+
+	
+#sidebar {
+	width: 230px;
+	color: #DFFCD1;
+	height:auto;
+	float: left;
+	border: #000000;
+	border-right: double;
+	border-right-color:#000000;
+	}
+	
+#main1 {
+	width: auto;
+	color: #DFFCD1;
+	height:600px;
+	float: left;
+	border: #000000;
+	border-right: double;
+	border-right-color:#000000;
+	}
+	
+	
+#main {
+	width: auto;
+	height:auto;
+	margin: 0px;
+	}
+	
+#inner_body {
+	height:800px;
+	float: right;
+	}
+	
+#loginDiv {
+	float: center;
+	}
+	
+a {text-decoration:none; color:#CFFCFC; } 
+	
+	
+input[type="text"] {
+    width: 115px;
+    display: block;
+	border: ridge;
+	padding: 2px;
+}
+
+input[type="password"] {
+    width: 115px;
+    display: block;
+	border: ridge;
+	padding: 2px;
+}
+
+input[type="submit"] {
+    width: 60px;
+	padding: 2px;
+	border:groove;
+	color:#000066;
+}
+
+input[type="reset"] {
+    width: 60px;
+	padding: 2px;
+	border:groove;
+	color:#000066;
+}
+
+#hoverID:hover {
+	color:#990000;
+	background-color:#00FFFF;
+	}
+	
+/* CSS Document */
+
